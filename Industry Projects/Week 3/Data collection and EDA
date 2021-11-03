@@ -1,0 +1,19 @@
+Hello!
+Irrespective of the field I end up into, my enthusiasm for space exploration has only increased as time passed by, 
+
+After a bit of research, I came across an API from space-track.org ,
+from which I was able to create a dataset of objects in the Earth's orbit (functional/non-functional) in the form of satellites and debris.
+
+I did an Exploratory Data Analysis on the same and was able to derive some expected results, where I analysed the payloads released by all the countries and the timeline in which these payloads were launched!
+
+Space Debris, as we all know is a highly problematic issue and a topic which should be discussed a lot provided that space organisations are putting a lot of efforts to develop commercial space travelling with the aim to begin civilisations on other planets.
+
+I also analyzed the data on space debris and the countries responsible for the same where I found a bit of unusual results, the reason to which is not yet known.
+
+Link to the my Kaggle Dataset : https://kaggle.com/kandhalkhandeka/satellites-and-debris-in-earths-orbit 
+
+Link to the Kaggle notebook : https://www.kaggle.com/kandhalkhandeka/eda-on-objects-in-earth-s-orbit 
+
+Do upvote the code & the dataset if you find it helpful and I'll appreciate feedbacks on the same!
+
+p.s : Will be updating my code as well as the dataset in due time, improving on a bit of irregularities I noticed while extracting the data.
